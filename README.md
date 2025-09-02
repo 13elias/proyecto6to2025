@@ -51,11 +51,21 @@ Pruebas funcionales Unitarias bajo Selenium:
 __________________________________________________________________________________
 Grupo 3 Integrantes:
 
-Historial de usuario:
+Historial de usuario:https://docs.google.com/document/d/1Xf1EZb7n0XtGJMPTMSYRVjTgE97q6SklVYZzDtXm9vg/edit?usp=sharing
 
-Casos de Uso y Casos de Prueba:
+Casos de Uso y Casos de Prueba:https://docs.google.com/document/d/1Xf1EZb7n0XtGJMPTMSYRVjTgE97q6SklVYZzDtXm9vg/edit?usp=sharing
 
-Modelos Clase Nombre: Nombre atributo | tipo de dato | |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------|
+Modelos Clase Nombre: 
+Nombre Atributo  Tipo de dato  
+    id      models.AutoField
+    DNI     models.IntegerField
+    nom     models.CharField
+    fechan  models.DateField
+    altura  models.FloatField
+    peso    models.FloatField
+    dire    models.CharField
+    cd      models.CharField
+    talla   models.ForeignKey
 
 
 
@@ -126,11 +136,11 @@ Clase Nombre: Socios
 
 
 
-Pruebas funcionales Unitarias e integración  bajo Selenium:
+Pruebas funcionales Unitarias bajo Selenium:
 https://docs.google.com/document/d/1HnpchmA9sOiAc5XKZigmrkwDr8Ja23_ml53VI9uOKBo/edit?usp=sharing
 
 
-Pruebas de Performance o Rendimiento: 
+
 
 ________________________________________________________________________________________________
 Grupo 6 Integrantes: Valentin Chacoma, Khalil Maccagno, Aileen Koning
