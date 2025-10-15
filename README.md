@@ -55,8 +55,19 @@ Historial de usuario:
 
 Casos de Uso y Casos de Prueba:
 
-Modelos Clase Nombre: Nombre atributo | tipo de dato | |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------|
-
+Modelos Clase Nombre: 
+| Nombre atributo | Tipo de dato | 
+----------------------------------
+| id              | AutoField    |
+| DNI             | IntegerField |
+| nom             | CharField    |
+| fechan          | DateField    |
+| altura          | FloatField   |
+| peso            | FloatField   |
+| cd              | CharField    |
+| talla           | ForeignKey   |
+| descripcion     | ForeignKey   |
+| qr              | ImageField   |
 
 
 Pruebas funcionales Unitarias bajo Selenium: 
