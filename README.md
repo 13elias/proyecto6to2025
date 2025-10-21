@@ -49,7 +49,7 @@ Pruebas funcionales Unitarias bajo Selenium:
 
 
 __________________________________________________________________________________
-Grupo 3 Integrantes:
+Grupo 4 Integrantes: Axel Agustin Delsoglio, Abril Bustos, Uriel Capdevila y Elias Godoy. 
 
 Historial de usuario:
 
